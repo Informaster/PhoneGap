@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-$(#document).ready(
+$("#document").ready(
  $("body").html("Hallo");
 
 );
